@@ -61,6 +61,12 @@ googleAnalytics = ""
 	weight = 20
 
 [[menu.main]]
+	name   = "Custom Section"
+	url    = "custom-section/"
+	weight = 20
+
+
+[[menu.main]]
 	name   = "Roadmap"
 	url    = "roadmap/"
 	weight = 30
